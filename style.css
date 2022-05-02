@@ -384,7 +384,11 @@ footer{
     .table4 td{
     	padding: 10px;
     }
-
+.new1{
+    	float: left;
+    	font-size: 100px;
+    	padding: 100px;
+    }
 
  
     
